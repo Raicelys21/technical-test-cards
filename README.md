@@ -1,4 +1,6 @@
 # Cards App
+![image](https://github.com/Raicelys21/technical-test-cards/assets/72804397/99217fa4-f230-43bc-962f-122119d7ff66)
+![image](https://github.com/Raicelys21/technical-test-cards/assets/72804397/fa71035c-b2ae-47b2-9872-4d2f6659d062)
 
 Este proyecto consta de dos archivos principales: "cards-app" y "express-server".
 
