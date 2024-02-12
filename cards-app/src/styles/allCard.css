@@ -1,0 +1,26 @@
+.button2 {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  border: #1e96ac solid 2px;
+  background-color: #1e96ac;
+  border-radius: 10px;
+  width: 100%;
+  cursor: pointer;
+}
+
+.title{
+    display: flex;
+    margin: 2rem 1rem;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.allCard{
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
